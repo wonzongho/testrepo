@@ -1,0 +1,15 @@
+{
+  "client_id": "https://wonzongho.github.io/testrepo/cimd.json",
+  "client_name": "Jongho CIMD for Test",
+  "redirect_uris": [
+    "http://127.0.0.1:8400/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
